@@ -81,13 +81,20 @@ p{
 
 a.dn{
   border:1px solid white;
-  padding:1rem 2rem;
-
+  padding:1rem 2rem;  
+  width:210px;
 }
+a.dn:hover{
+  border:1px solid white;
+  background-color: #fff;
+  color:black;
+}
+
 a.rm{
   border:1px solid #745cf9;
   padding:1rem 2rem;
   background-color: #745cf9;
+  width:210px;
 }
 a.rm:hover{
   border:1px solid #5234f9;
